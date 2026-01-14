@@ -77,13 +77,14 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> bichito meu",
   "...",
-  "> today is your birthday",
+  "> avui es el teu aniversari",
   "...",
-  "> so i made you this computer program",
+  "> i se que ja t'he fet regalo",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
+  "> pero volia fer-te una sorpresa extra",
+  "........"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
